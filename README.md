@@ -15,4 +15,4 @@ conda install --file requirements.txt
 ```
 python prediction.py --model_path path/to/downloaded/model_file --class_path path/to/downloaded/classnames_file --image_path path/to/image_file
 ```
-###Please note if you're using python3.4 or above, try replacing python to python3 if you're facing error while running the above command 
+### Please note if you're using python3.4 or above, try replacing python to python3 if you're facing error while running the above command 
