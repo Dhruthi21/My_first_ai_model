@@ -1,4 +1,4 @@
-# It is a AI model which helps us to get the efficient and accurate differences between two pictures
+## It is an AI model which helps us to get the efficient and accurate differences between pictures of desert and cloud
 
 ## How to use this model
 - Once you've downloaded the model file you can test it in your local system with the code snippet. Please use the Github repo with sample code with the link provided in export model page.
